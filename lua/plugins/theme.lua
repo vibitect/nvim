@@ -1,0 +1,1 @@
+/home/addamsson/.config/omarchy/current/theme/neovim.lua
